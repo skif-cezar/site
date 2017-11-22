@@ -1,0 +1,62 @@
+body {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #463c36;
+}
+.name_register {
+    color: wheat;
+    font-size: 20px;
+    text-align: center;
+
+}
+.logo {
+    color: wheat;
+    font-size: 30px;
+    text-align: center;
+
+}
+.container {
+    margin-top: 1.5%;
+    margin-left:  auto;
+    margin-right: auto;
+
+}
+.input_register {
+    text-align: center;
+
+}
+.input1 {
+    padding: 12px;
+
+}
+input {
+    font-size: 20px;
+    border-radius: 15px;
+    max-width: 500px;
+    min-width: 200px;
+    width: 35%;
+    height: 30px;
+    padding-left: 10px;
+    outline: none;
+    color: #533d3d;
+}
+button {
+    position: relative;
+    overflow: hidden;
+    background: #b85c5c;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 120px;
+
+    width: 100%;
+    color: wheat;
+    outline: none;
+    cursor: pointer;
+    display: inline;
+    font-size: 20px;
+}
+.button_2 {
+    text-align: center;
+    min-width: 10px;
+    margin: 30px;
+
+}
